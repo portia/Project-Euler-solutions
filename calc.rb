@@ -18,8 +18,6 @@ def ask question
 answer
 end
 
-ask 'Вам нравится такос?'
 ask 'Вам нравится буритос?'
 wets_bed = ask 'Вы мочитесь в постель?'
 ask 'Вам нравится тамалес?'
-puts wets_bed
